@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da915166-b6c5-4472-9d6a-5c54ee866fa0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/job/templates/viec-freelance/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+              <folding>
+                <element signature="e#636#641#0#HTML" expanded="true" />
+                <element signature="e#790#795#0#HTML" expanded="true" />
+                <element signature="e#1201#1223#0#HTML" expanded="true" />
+                <element signature="e#13695#13754#0#HTML" expanded="true" />
+                <element signature="e#14483#14553#0#HTML" expanded="true" />
+                <element signature="e#16877#16893#0#HTML" expanded="true" />
+                <element signature="e#18923#18983#0#HTML" expanded="true" />
+                <element signature="e#19659#19730#0#HTML" expanded="true" />
+                <element signature="e#32799#32823#0#HTML" expanded="true" />
+                <element signature="e#34332#34354#0#HTML" expanded="true" />
+                <element signature="e#34581#34600#0#HTML" expanded="true" />
+                <element signature="e#34667#34691#0#HTML" expanded="true" />
+                <element signature="e#38211#38227#0#HTML" expanded="true" />
+                <element signature="e#38825#38845#0#HTML" expanded="true" />
+                <element signature="e#38913#38936#0#HTML" expanded="true" />
+                <element signature="e#43547#43566#0#HTML" expanded="true" />
+                <element signature="e#44362#44410#0#HTML" expanded="true" />
+                <element signature="e#44749#44769#0#HTML" expanded="true" />
+                <element signature="e#44837#44860#0#HTML" expanded="true" />
+                <element signature="e#49301#49306#0#HTML" expanded="true" />
+                <element signature="e#52464#52480#0#HTML" expanded="true" />
+                <element signature="e#53089#53109#0#HTML" expanded="true" />
+                <element signature="e#53177#53200#0#HTML" expanded="true" />
+                <element signature="e#59146#59162#0#HTML" expanded="true" />
+                <element signature="e#59667#59715#0#HTML" expanded="true" />
+                <element signature="e#60040#60060#0#HTML" expanded="true" />
+                <element signature="e#60128#60151#0#HTML" expanded="true" />
+                <element signature="e#64369#64423#0#HTML" expanded="true" />
+                <element signature="e#64788#64842#0#HTML" expanded="true" />
+                <element signature="e#65884#65910#0#HTML" expanded="true" />
+                <element signature="e#65991#66017#0#HTML" expanded="true" />
+                <element signature="e#66037#66059#0#HTML" expanded="true" />
+                <element signature="e#66226#66264#0#HTML" expanded="true" />
+                <element signature="e#66373#66400#0#HTML" expanded="true" />
+                <element signature="e#67133#67153#0#HTML" expanded="true" />
+                <element signature="e#67292#67311#0#HTML" expanded="true" />
+                <element signature="e#67907#67927#0#HTML" expanded="true" />
+                <element signature="e#67969#68005#0#HTML" expanded="true" />
+                <element signature="e#68102#68138#0#HTML" expanded="true" />
+                <element signature="e#68194#68230#0#HTML" expanded="true" />
+                <element signature="e#71707#71728#0#HTML" expanded="true" />
+                <element signature="e#71773#71795#0#HTML" expanded="true" />
+                <element signature="e#73313#73335#0#HTML" expanded="true" />
+                <element signature="e#75187#75209#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/job/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="71" column="9" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/job/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/job/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files (x86)\Git\git-cmd.exe" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="647820dd-3fb5-459a-b636-d9c7c379fd1e" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/job_doan/.gitattributes" />
+        <option value="$PROJECT_DIR$/job/templates/viec-lam-freelance.html" />
+        <option value="$PROJECT_DIR$/job_doan/urls.py" />
+        <option value="$PROJECT_DIR$/job/urls.py" />
+        <option value="$PROJECT_DIR$/job/views.py" />
+        <option value="$PROJECT_DIR$/job/templates/viec-freelance/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="268" />
+    <option name="y" value="-16" />
+    <option name="width" value="1026" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="job_doan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job_doan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="job_doan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job_doan" type="462c0819:PsiDirectoryNode" />
+              <item name="job_doan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/git-cmd.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="job_doan" type="Python.DjangoServer" factoryName="Django server">
+      <module name="job_doan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da915166-b6c5-4472-9d6a-5c54ee866fa0" name="Default Changelist" comment="" />
+      <created>1558732007201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558732007201</updated>
+      <workItem from="1558732011118" duration="3295000" />
+      <workItem from="1558975245293" duration="7164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10459000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/job_doan/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/templates/dang-cuoc-thi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/templates/viec-lam-freelance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10610">
+          <caret selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/conf/urls/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/urls/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_doan/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_doan/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-end-line="125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job/templates/viec-freelance/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+          <folding>
+            <element signature="e#636#641#0#HTML" expanded="true" />
+            <element signature="e#790#795#0#HTML" expanded="true" />
+            <element signature="e#1201#1223#0#HTML" expanded="true" />
+            <element signature="e#13695#13754#0#HTML" expanded="true" />
+            <element signature="e#14483#14553#0#HTML" expanded="true" />
+            <element signature="e#16877#16893#0#HTML" expanded="true" />
+            <element signature="e#18923#18983#0#HTML" expanded="true" />
+            <element signature="e#19659#19730#0#HTML" expanded="true" />
+            <element signature="e#32799#32823#0#HTML" expanded="true" />
+            <element signature="e#34332#34354#0#HTML" expanded="true" />
+            <element signature="e#34581#34600#0#HTML" expanded="true" />
+            <element signature="e#34667#34691#0#HTML" expanded="true" />
+            <element signature="e#38211#38227#0#HTML" expanded="true" />
+            <element signature="e#38825#38845#0#HTML" expanded="true" />
+            <element signature="e#38913#38936#0#HTML" expanded="true" />
+            <element signature="e#43547#43566#0#HTML" expanded="true" />
+            <element signature="e#44362#44410#0#HTML" expanded="true" />
+            <element signature="e#44749#44769#0#HTML" expanded="true" />
+            <element signature="e#44837#44860#0#HTML" expanded="true" />
+            <element signature="e#49301#49306#0#HTML" expanded="true" />
+            <element signature="e#52464#52480#0#HTML" expanded="true" />
+            <element signature="e#53089#53109#0#HTML" expanded="true" />
+            <element signature="e#53177#53200#0#HTML" expanded="true" />
+            <element signature="e#59146#59162#0#HTML" expanded="true" />
+            <element signature="e#59667#59715#0#HTML" expanded="true" />
+            <element signature="e#60040#60060#0#HTML" expanded="true" />
+            <element signature="e#60128#60151#0#HTML" expanded="true" />
+            <element signature="e#64369#64423#0#HTML" expanded="true" />
+            <element signature="e#64788#64842#0#HTML" expanded="true" />
+            <element signature="e#65884#65910#0#HTML" expanded="true" />
+            <element signature="e#65991#66017#0#HTML" expanded="true" />
+            <element signature="e#66037#66059#0#HTML" expanded="true" />
+            <element signature="e#66226#66264#0#HTML" expanded="true" />
+            <element signature="e#66373#66400#0#HTML" expanded="true" />
+            <element signature="e#67133#67153#0#HTML" expanded="true" />
+            <element signature="e#67292#67311#0#HTML" expanded="true" />
+            <element signature="e#67907#67927#0#HTML" expanded="true" />
+            <element signature="e#67969#68005#0#HTML" expanded="true" />
+            <element signature="e#68102#68138#0#HTML" expanded="true" />
+            <element signature="e#68194#68230#0#HTML" expanded="true" />
+            <element signature="e#71707#71728#0#HTML" expanded="true" />
+            <element signature="e#71773#71795#0#HTML" expanded="true" />
+            <element signature="e#73313#73335#0#HTML" expanded="true" />
+            <element signature="e#75187#75209#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
